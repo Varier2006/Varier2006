@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- I'm currently a highschool student in Slovakia
+- Sometimes I code in my free time though not too often
+- I've played around with Python, Pascal and JS
 <!--
 **Varier2006/Varier2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
